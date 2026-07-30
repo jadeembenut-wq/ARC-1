@@ -1,0 +1,8 @@
+test,pole,distance_cm,samples,average_raw,average_voltage,voltage_standard_deviation
+baseline,none,NA,10,2003.10,2.4458,0.001231
+pole_1_10cm,pole_1,10,10,2003.80,2.4466,0.001993
+pole_1_5cm,pole_1,5,10,2014.80,2.4601,0.002860
+pole_1_2cm,pole_1,2,10,2250.00,2.7473,0.024045
+pole_2_10cm,pole_2,10,10,2016.20,2.4618,0.001404
+pole_2_5cm,pole_2,5,10,2004.50,2.4475,0.001740
+pole_2_2cm,pole_2,2,10,1869.10,2.2822,0.003720

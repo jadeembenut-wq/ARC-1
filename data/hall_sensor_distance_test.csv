@@ -1,0 +1,78 @@
+test,pole,distance_cm,sample,raw_reading,voltage
+
+baseline, none, NA, 1, 2003, 2.4457
+baseline, none, NA, 2, 2003, 2.4457
+baseline, none, NA, 3, 2003, 2.4457
+baseline, none, NA, 4, 2004, 2.4469
+baseline, none, NA, 5, 2002, 2.4444
+baseline, none, NA, 6, 2003, 2.4457
+baseline, none, NA, 7, 2005, 2.4481
+baseline, none, NA, 8, 2002, 2.4444
+baseline, none, NA, 9, 2004, 2.4469
+baseline, none, NA, 10, 2002, 2.4444
+
+pole_1_10cm, pole_1, 10, 1, 2002, 2.4444
+pole_1_10cm, pole_1, 10, 2, 2002, 2.4444
+pole_1_10cm, pole_1, 10, 3, 2002, 2.4444
+pole_1_10cm, pole_1, 10, 4, 2005, 2.4481
+pole_1_10cm, pole_1, 10, 5, 2004, 2.4469
+pole_1_10cm, pole_1, 10, 6, 2005, 2.4481
+pole_1_10cm, pole_1, 10, 7, 2002, 2.4444
+pole_1_10cm, pole_1, 10, 8, 2005, 2.4481
+pole_1_10cm, pole_1, 10, 9, 2005, 2.4481
+pole_1_10cm, pole_1, 10, 10, 2006, 2.4493
+
+pole_1_5cm, pole_1, 5, 1, 2014, 2.4591
+pole_1_5cm, pole_1, 5, 2, 2011, 2.4554
+pole_1_5cm, pole_1, 5, 3, 2014, 2.4591
+pole_1_5cm, pole_1, 5, 4, 2016, 2.4615
+pole_1_5cm, pole_1, 5, 5, 2013, 2.4579
+pole_1_5cm, pole_1, 5, 6, 2014, 2.4591
+pole_1_5cm, pole_1, 5, 7, 2016, 2.4615
+pole_1_5cm, pole_1, 5, 8, 2015, 2.4603
+pole_1_5cm, pole_1, 5, 9, 2020, 2.4664
+pole_1_5cm, pole_1, 5, 10, 2015, 2.4603
+
+pole_1_2cm, pole_1, 2, 1,2227,2.7192
+pole_1_2cm, pole_1, 2, 2,2237,2.7314
+pole_1_2cm, pole_1, 2, 3,2218,2.7082
+pole_1_2cm, pole_1, 2, 4,2251,2.7485
+pole_1_2cm, pole_1, 2, 5,2244,2.7399
+pole_1_2cm, pole_1, 2, 6,2244,2.7399
+pole_1_2cm, pole_1, 2, 7,2260,2.7595
+pole_1_2cm, pole_1, 2, 8,2271,2.7729
+pole_1_2cm, pole_1, 2, 9,2274,2.7766
+pole_1_2cm, pole_1, 2, 10,2274,2.7766
+
+pole_2_10cm, pole_2, 10, 1,2016,2.4615
+pole_2_10cm, pole_2, 10, 2,2016,2.4615
+pole_2_10cm, pole_2, 10, 3,2016,2.4615
+pole_2_10cm, pole_2, 10, 4,2018,2.4640
+pole_2_10cm, pole_2, 10, 5,2016,2.4615
+pole_2_10cm, pole_2, 10, 6,2017,2.4628
+pole_2_10cm, pole_2, 10, 7,2014,2.4591
+pole_2_10cm, pole_2, 10, 8,2017,2.4628
+pole_2_10cm, pole_2, 10, 9,2017,2.4628
+pole_2_10cm, pole_2, 10, 10,2015,2.4603
+
+pole_2_5cm, pole_2, 5, 1,2007,2.4505
+pole_2_5cm, pole_2, 5, 2,2005,2.4481
+pole_2_5cm, pole_2, 5, 3,2002,2.4444
+pole_2_5cm, pole_2, 5, 4,2004,2.4469
+pole_2_5cm, pole_2, 5, 5,2004,2.4469
+pole_2_5cm, pole_2, 5, 6,2006,2.4493
+pole_2_5cm, pole_2, 5, 7,2003,2.4457
+pole_2_5cm, pole_2, 5, 8,2004,2.4469
+pole_2_5cm, pole_2, 5, 9,2005,2.4481
+pole_2_5cm, pole_2, 5, 10,2005,2.4481
+
+pole_2_2cm, pole_2, 2, 1,1867,2.2796
+pole_2_2cm, pole_2, 2, 2,1870,2.2833
+pole_2_2cm, pole_2, 2, 3,1872,2.2857
+pole_2_2cm, pole_2, 2, 4,1874,2.2882
+pole_2_2cm, pole_2, 2, 5,1870,2.2833
+pole_2_2cm, pole_2, 2, 6,1870,2.2833
+pole_2_2cm, pole_2, 2, 7,1869,2.2821
+pole_2_2cm, pole_2, 2, 8,1865,2.2772
+pole_2_2cm, pole_2, 2, 9,1870,2.2833
+pole_2_2cm, pole_2, 2, 10,1864,2.2759
